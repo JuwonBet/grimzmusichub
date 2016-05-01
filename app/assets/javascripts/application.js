@@ -15,8 +15,3 @@
 //= require turbolinks
 //= require bootstrap-sprockets
 //= require_tree .
-//= require jquery.jplayer
-//= require soundmanager2
-//= require soundmanager2-jsmin
-//= require soundmanager2-nodebug
-//= require soundmanager2-nodebug-jsmin
