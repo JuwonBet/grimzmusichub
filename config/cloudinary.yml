@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: spaceship
+  api_key: '767141884848326'
+  api_secret: iaBV6emfdyyCgsKBTUKjYv0VShk
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: spaceship
+  api_key: '767141884848326'
+  api_secret: iaBV6emfdyyCgsKBTUKjYv0VShk
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: spaceship
+  api_key: '767141884848326'
+  api_secret: iaBV6emfdyyCgsKBTUKjYv0VShk
+  enhance_image_tag: true
+  static_image_support: false
