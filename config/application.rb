@@ -10,7 +10,7 @@ module GMH
   class Application < Rails::Application
      config.serve_static_files = true
     config.assets.paths << Rails.root.join("app", "assets", "fonts")
-   
+   config.assets.precompile =+% %w[bootstrap.min.js creative.js jquery.js wow.min.js classie.js animate.min.css bootstrap.min.css creative.css fonts-awesome.min.css]
 
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
