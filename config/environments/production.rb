@@ -23,9 +23,6 @@ Rails.application.configure do
   # Disable serving static files from the `/public` folder by default since
   # Apache or NGINX already handles this.
   config.serve_static_files = true
- config.assets.precompile =+% 
-  %w[bootstrap.min.js creative.js jquery.js wow.min.js classie.js animate.min.css bootstrap.min.css creative.css fonts-awesome.min.css]
-
 
 
   # Compress JavaScripts and CSS.
