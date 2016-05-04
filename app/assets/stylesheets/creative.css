@@ -1,5 +1,5 @@
 /*!
- * Start Bootstrap - Creative Bootstrap Theme (http://startbootstrap.com)
+ * Grimz Music Hub Creative  
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
@@ -178,7 +178,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url(../assets/header.jpg);
+    background-image: url(https://res.cloudinary.com/spaceship/image/asset/v1462344712/header-fb7e411aaf7b47c5cb3e1ebb3171d12a.jpg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
