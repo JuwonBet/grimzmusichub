@@ -58,6 +58,7 @@ gem 'autoprefixer-rails'
 gem "font-awesome-rails"
 gem 'cloudinary'
 gem 'puma'
+gem 'devise'
 group :development do
 gem 'better_errors'
 gem 'quiet_assets'
