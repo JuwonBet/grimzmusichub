@@ -15,7 +15,8 @@ gem 'pg'
 gem 'rails_12factor'
 end
 # Use SCSS for stylesheets
-gem 'sass-rails', '~> 5.0'
+#gem 'sass-rails', '~> 5.0'
+gem 'sass-rails'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
@@ -53,12 +54,14 @@ gem 'gibbon'
 gem 'google_drive'
 gem 'high_voltage'
 gem 'simple_form'
-gem 'bootstrap-sass', '~> 3.3.4.1'
+#gem 'bootstrap-sass', '~> 3.3.4.1'
+gem 'bootstrap-sass'
 gem 'autoprefixer-rails'
 gem "font-awesome-rails"
 gem 'cloudinary'
 gem 'puma'
 gem 'devise'
+gem 'community_engine', :github => 'bborn/communityengine', :branch => "edge"
 group :development do
 gem 'better_errors'
 gem 'quiet_assets'
