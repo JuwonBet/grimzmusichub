@@ -60,14 +60,7 @@ gem 'autoprefixer-rails'
 gem "font-awesome-rails"
 gem 'cloudinary'
 gem 'puma'
-<<<<<<< HEAD
-<<<<<<< HEAD
-gem 'devise'
-gem 'community_engine', :github => 'bborn/communityengine', :branch => "edge"
-=======
->>>>>>> parent of 7a1f32b... added sign up feature
-=======
->>>>>>> parent of 7a1f32b... added sign up feature
+
 group :development do
 gem 'better_errors'
 gem 'quiet_assets'
