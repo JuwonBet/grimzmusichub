@@ -1,4 +1,9 @@
 Rails.application.routes.draw do
+<<<<<<< HEAD
+=======
+  get 'home/index'
+  root 'home#index'
+>>>>>>> parent of 7a1f32b... added sign up feature
   
   #get 'home/index'
   #root 'home#index'
